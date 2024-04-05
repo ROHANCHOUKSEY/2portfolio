@@ -632,11 +632,12 @@ body{
     display: contents;
   }
 
-  .hamburger{
+  .hamburger {
     display: block;
     position: relative;
     left: 20px;
     top: 16px;
+    position: fixed;
   }
 
   .close{
