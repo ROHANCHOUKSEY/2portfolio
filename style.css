@@ -864,7 +864,7 @@ body{
 
   .contentBox{
     width: 527px;
-    height: 176px;
+    height: 190px;
     background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
     box-shadow: -1 0.7em 1.5em -0.5em #4d36d0be;
     display: flex;
@@ -915,6 +915,4 @@ body{
   
 }
 
-
-
-
+  
