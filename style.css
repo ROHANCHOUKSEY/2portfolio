@@ -602,7 +602,8 @@ body{
     z-index: 100;
     background-color: #262337;
     display: flex;
-    height: 100%;
+    max-height: 45%;
+    min-height: 45%;
     width: 234px;
     left: -236px;
   }
@@ -679,10 +680,12 @@ body{
     margin-bottom: 15px;
     color: white;
     width: 146%;
+    text-align: justify;
   }
 
   .educationDiv{
     width: 146%;
+    text-align: justify;
   }
 
   .ResumeButton {
@@ -803,8 +806,7 @@ body{
     /* gap: 40px; */
     padding: 16px 55px;
     cursor: pointer;
-    bottom: 706px;
-    position: relative;
+    position: fixed;
   }
 
   .container img{
