@@ -625,7 +625,7 @@ body{
   }
 
   .aboutUs h1 {
-    width: 126%;
+    width: 135%;
     display: flex;
     justify-content: center;
     color: #ffcc03;
@@ -633,7 +633,7 @@ body{
   }
 
   .intrImg img{
-    width: 126%;
+    width: 132%;
   }
 
   .avater{
@@ -688,7 +688,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    left: 29%;
+    left: 32%;
   }
 
   .skills h1 {
@@ -697,7 +697,7 @@ body{
     margin-bottom: 16px;
     color: #ffcc03;
     text-decoration: underline;
-    width: 126%;
+    width: 136%;
   }
 
   .programmingLanguage {
@@ -728,7 +728,7 @@ body{
     font-size: 15px;
     color: rgb(132 114 254);
     /* text-decoration: none; */
-    width: 126%;
+    width: 507px;
   }
 
   .technicalSkill {
@@ -743,7 +743,7 @@ body{
     margin-bottom: 16px;
     color: #ffcc03;
     text-decoration: underline;
-    width: 126%;
+    width: 507px;
   }
 
   .allProject {
@@ -846,7 +846,7 @@ body{
     color: #ffcc03;
     text-decoration: underline;
     margin-bottom: 10px;
-    width: 126%;
+    width: 507px;
   }
 
   .otherDetails {
@@ -878,7 +878,7 @@ body{
     margin-bottom: 16px;
     color: #ffcc03;
     text-decoration: underline;
-    width: 126%;
+    width: 507px;
   }
 
   .SocialMediaContact {
@@ -894,7 +894,7 @@ body{
     height: 355px;
     border-radius: 26px;
     position: relative;
-    left: 45px;
+    left: 49px;
   }
   
   .footer{
