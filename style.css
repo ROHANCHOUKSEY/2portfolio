@@ -614,7 +614,7 @@ body{
     margin: 0px -2px;
     text-align: center;
     position: relative;
-    left: 17px;
+    left: 24px;
   }
 
   .changeName{
@@ -639,6 +639,7 @@ body{
   .avater{
     display: flex;
     justify-content: center;
+    width: 108%;
   }
 
   .aboutUsIntro {
