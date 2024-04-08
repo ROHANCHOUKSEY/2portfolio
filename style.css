@@ -752,7 +752,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    left: 60px;
+    left: 65px;
   }
 
   .giticon {
@@ -868,7 +868,7 @@ body{
     margin-bottom: 27px;
     cursor: pointer;
     position: relative;
-    left: 60px;
+    left: 65px;
   }
 
 
@@ -884,7 +884,7 @@ body{
   .SocialMediaContact {
     display: flex;
     gap: 22px;
-    margin: 22px 98px;
+    margin: 22px 90px;
   }
 
   .right {
@@ -894,7 +894,7 @@ body{
     height: 355px;
     border-radius: 26px;
     position: relative;
-    left: 34px;
+    left: 45px;
   }
   
   .footer{
