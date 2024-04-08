@@ -760,7 +760,7 @@ body{
     justify-content: center;
     flex-wrap: wrap;
     position: relative;
-    left: 65px;
+    left: 75px;
   }
 
   .giticon {
@@ -834,7 +834,7 @@ body{
   }
 
   .projects {
-    width: 410px;
+    width: 450px;
     height: 200px;
     background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
     box-shadow: 0 0.7em 1.5em -0.5em #4d36d0be;
