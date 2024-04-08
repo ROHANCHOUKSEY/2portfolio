@@ -613,6 +613,8 @@ body{
   .intro {
     margin: 0px -2px;
     text-align: center;
+    position: relative;
+    left: 17px;
   }
 
   .changeName{
