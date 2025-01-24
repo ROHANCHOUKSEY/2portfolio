@@ -309,7 +309,7 @@ body {
 }
 
 .projectDetails {
-  text-align: center;
+  text-align: justify;
   position: relative;
   bottom: 25px;
   margin-bottom: -28px;
@@ -857,6 +857,7 @@ body {
     border-radius: 20px;
     margin-bottom: 27px;
     cursor: pointer;
+    padding: 10px
   }
 
   .contactHeading {
