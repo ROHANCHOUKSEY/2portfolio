@@ -107,6 +107,10 @@ body {
   color: white;
 }
 
+.aboutMeContent .Information {
+  display: flex !important;
+}
+
 .aboutUsIntro {
   display: flex;
   justify-content: center;
@@ -140,6 +144,11 @@ body {
   color: white;
   margin-bottom: 10px;
 }
+
+.education .EducationInformation {
+  display: flex !important;
+}
+
 
 .ResumeButton {
   border: none;
