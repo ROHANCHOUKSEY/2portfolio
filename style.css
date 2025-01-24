@@ -407,6 +407,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 101px;
+  align-items: center;
 }
 
 .ContactMe left {
@@ -552,7 +553,7 @@ body {
 
 .details {
   display: flex;
-  justify-content: center;
+  /* justify-content: center; */
   align-items: center;
   gap: 30px;
   font-size: 15px;
@@ -560,14 +561,13 @@ body {
   color: white;
 }
 
-.otherDetails {
+/* .otherDetails {
   margin: 108px 50px;
-}
+} */
 
 .SocialMediaContact {
   display: flex;
   gap: 22px;
-  margin: -68px 53px;
 }
 
 .design {
