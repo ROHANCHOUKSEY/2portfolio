@@ -4,7 +4,7 @@
   font-family: sans-serif;
 }
 
-body{
+body {
   background-color: #1c1b23;
 }
 
@@ -15,7 +15,6 @@ body{
   gap: 40px;
   padding: 16px 55px;
   cursor: pointer;
-  
 }
 
 .content li {
@@ -27,7 +26,7 @@ body{
   bottom: 2px;
 }
 
-.content .link{
+.content .link {
   text-decoration: none;
   color: white;
 }
@@ -75,11 +74,10 @@ body{
   bottom: 2px;
 }
 
-.content .link{
+.content .link {
   text-decoration: none;
   color: white;
 }
-
 
 .Introduction {
   display: flex;
@@ -99,10 +97,9 @@ body{
   justify-content: center;
   color: #ffcc03;
   text-decoration: underline;
-  
 }
 
-.aboutMeContent{
+.aboutMeContent {
   line-height: 32px;
   display: block;
   content: "";
@@ -183,8 +180,8 @@ body{
   box-shadow: 0 0.3em 1em -0.5em #4d36d0be;
 }
 
-.skills{
-    margin-bottom: 30px;
+.skills {
+  margin-bottom: 30px;
 }
 
 .skills h1 {
@@ -195,77 +192,78 @@ body{
   text-decoration: underline;
 }
 
-.boxes h1{
-    display: flex;
-    justify-content: center;
-    font-size: 15px;
-    color: rgb(132 114 254);
-    /* text-decoration: none; */
+.boxes h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 15px;
+  color: rgb(132 114 254);
+  /* text-decoration: none; */
 }
 
-.programmingLanguage{
-    display: flex;
-    justify-content: center;
-    gap: 180px;
-    margin-bottom: 40px;
+.programmingLanguage {
+  display: flex;
+  justify-content: center;
+  gap: 180px;
+  margin-bottom: 40px;
 }
 
-.programmingLanguage .box{
-    height: 150px;
-    width: 250px;
-    background-color: azure;
+.programmingLanguage .box {
+  height: 150px;
+  width: 250px;
+  background-color: azure;
 }
 
-.wedDevelopment{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 180px;
-    margin-bottom: 40px;
+.wedDevelopment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 180px;
+  margin-bottom: 40px;
 }
 
-.technicalSkill{
-    display: flex;
-    justify-content: center;
-    gap: 68px;
-} 
-
-.technicalSkill .firstthree li{
-    color: white;
-    margin-bottom: 10px;
+.technicalSkill {
+  display: flex;
+  justify-content: center;
+  gap: 68px;
 }
 
-
-.technicalSkill .firsttwo li{
-    color: white;
-    margin-bottom: 10px;
+.technicalSkill .firstthree li {
+  color: white;
+  margin-bottom: 10px;
 }
 
-.project{
+.technicalSkill .firsttwo li {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.project {
   margin-bottom: 30px;
 }
 
-
-.project h1{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 16px;
-    color: #ffcc03;
-    text-decoration: underline;
+.project h1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+  color: #ffcc03;
+  text-decoration: underline;
 }
 
-
-.allProject{
+.allProject {
   display: flex;
   gap: 36px;
   justify-content: center;
   flex-wrap: wrap;
 }
 
-.projects{
+.projects {
   width: 527px;
   height: 176px;
-  background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
+  background: linear-gradient(
+    0deg,
+    rgba(77, 54, 208, 1) 0%,
+    rgba(132, 116, 254, 1) 100%
+  );
   box-shadow: 0 0.7em 1.5em -0.5em #4d36d0be;
   display: flex;
   /* justify-content: center; */
@@ -276,12 +274,12 @@ body{
   cursor: pointer;
 }
 
-.projects:hover{
+.projects:hover {
   position: relative;
   bottom: 5px;
-} 
+}
 
-.projects .projectHeading{
+.projects .projectHeading {
   color: black;
   background: none;
   font-size: 14px;
@@ -289,31 +287,30 @@ body{
   top: 5px;
 }
 
-.logo{
+.logo {
   background: none;
   height: 22px;
   position: relative;
   bottom: 26px;
 }
 
-
-.projects .p{
+.projects .p {
   background: none;
   color: white;
 }
- 
-.projectDetails{
+
+.projectDetails {
   text-align: center;
   position: relative;
   bottom: 25px;
   margin-bottom: -28px;
 }
 
-.github{
+.github {
   height: 25px;
 }
 
-.giticon{
+.giticon {
   position: relative;
   left: 220px;
   bottom: 30px;
@@ -322,7 +319,7 @@ body{
   text-decoration: underline;
 }
 
-.gitlink{
+.gitlink {
   position: relative;
   left: 220px;
   bottom: 30px;
@@ -330,45 +327,49 @@ body{
   text-decoration: underline;
 }
 
-.design h1{
+.design h1 {
   display: flex;
   justify-content: center;
   margin-bottom: 16px;
   color: #ffcc03;
   text-decoration: underline;
-} 
+}
 
-.design{
+.design {
   margin-bottom: 30px;
 }
 
-.box{
+.box {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-.contentBox{
+.contentBox {
   width: 527px;
-    height: 176px;
-    background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
-    box-shadow: -1 0.7em 1.5em -0.5em #4d36d0be;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    border-radius: 20px;
-    margin-bottom: 27px;
-    cursor: pointer;
+  height: 176px;
+  background: linear-gradient(
+    0deg,
+    rgba(77, 54, 208, 1) 0%,
+    rgba(132, 116, 254, 1) 100%
+  );
+  box-shadow: -1 0.7em 1.5em -0.5em #4d36d0be;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  margin-bottom: 27px;
+  cursor: pointer;
 }
 
-.contentBox p{
+.contentBox p {
   text-align: center;
   position: relative;
   top: 0px;
 }
 
-.contentBox .uiLink{
+.contentBox .uiLink {
   display: flex;
   align-items: end;
   justify-content: center;
@@ -379,12 +380,12 @@ body{
   text-decoration: underline;
 }
 
-.contentBox .uiLink:hover{
+.contentBox .uiLink:hover {
   position: relative;
-  bottom: 5px; 
+  bottom: 5px;
 }
 
-.contactHeading{
+.contactHeading {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -393,30 +394,33 @@ body{
   margin-bottom: 10px;
 }
 
-
-.ContactMe{
+.ContactMe {
   display: flex;
   justify-content: center;
   gap: 101px;
 }
 
-.ContactMe left{
+.ContactMe left {
   border: 1px solid red;
   width: 600px;
   height: 500px;
 }
 
-.right{
+.right {
   margin: 40px 0px;
   width: 415px;
-  background: linear-gradient(0deg, rgb(255 255 255) 0%, rgba(132, 116, 254, 1) 100%);
+  background: linear-gradient(
+    0deg,
+    rgb(255 255 255) 0%,
+    rgba(132, 116, 254, 1) 100%
+  );
   height: 355px;
   border-radius: 26px;
 }
- 
-.right h1{
+
+.right h1 {
   display: flex;
-  justify-self: center;
+  /* justify-self: center; */
   align-items: center;
   color: white;
   position: relative;
@@ -428,22 +432,22 @@ body{
   margin-bottom: 12px;
 }
 
-.right .form{
+.right .form {
   position: relative;
   display: flex;
   flex-direction: column;
-  gap: 16px;  
+  gap: 16px;
   height: 273px;
   top: 9px;
   left: 28px;
   width: 361px;
 }
 
-.form{
+.form {
   height: 320px;
 }
- 
-.form input{
+
+.form input {
   width: 335px;
   height: 34px;
   border-radius: 6px;
@@ -451,7 +455,7 @@ body{
   padding: 0 13px;
 }
 
-.form .note{
+.form .note {
   width: 416px;
   min-width: 336px;
   max-width: 331px;
@@ -467,7 +471,11 @@ body{
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
   padding-block: 0.5rem;
   padding-inline: 1.25rem;
-  background: linear-gradient(0deg, rgb(255 255 255) 0%, rgba(132, 116, 254, 1) 100%);
+  background: linear-gradient(
+    0deg,
+    rgb(255 255 255) 0%,
+    rgba(132, 116, 254, 1) 100%
+  );
   border-radius: 9999px;
   display: flex;
   align-items: center;
@@ -533,8 +541,7 @@ body{
   }
 }
 
-
-.details{
+.details {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -544,10 +551,9 @@ body{
   color: white;
 }
 
-.otherDetails{
+.otherDetails {
   margin: 108px 50px;
 }
-
 
 .SocialMediaContact {
   display: flex;
@@ -555,47 +561,41 @@ body{
   margin: -68px 53px;
 }
 
-.design{
+.design {
   margin-bottom: 30px;
 }
 
-.contact{
+.contact {
   margin-bottom: 30px;
 }
 
-.footer{
+.footer {
   display: flex;
   align-items: center;
-  justify-content: center; 
+  justify-content: center;
   margin-bottom: 8px;
   color: white;
 }
 
-
-.typewrite{
+.typewrite {
   color: white;
   text-decoration: none;
 }
 
-.corss{
+.corss {
   display: contents;
 }
 
-.hamburger{
+.hamburger {
   display: contents;
 }
 
-.close p{
+.close p {
   display: none;
-} 
+}
 
-
- 
-@media(max-width:960px){
-  
-
-
-  .navbar{
+@media (max-width: 960px) {
+  .navbar {
     position: -webkit-sticky;
     position: fixed;
     top: 0;
@@ -614,7 +614,7 @@ body{
     flex-direction: column-reverse;
     width: 126%;
   }
- 
+
   .intro {
     margin: 0px -2px;
     text-align: center;
@@ -622,7 +622,7 @@ body{
     left: 24px;
   }
 
-  .changeName{
+  .changeName {
     /* width: 434px; */
     color: white;
     position: relative;
@@ -637,11 +637,11 @@ body{
     text-decoration: underline;
   }
 
-  .intrImg img{
+  .intrImg img {
     width: 132%;
   }
 
-  .avater{
+  .avater {
     display: flex;
     justify-content: center;
     width: 108%;
@@ -654,7 +654,7 @@ body{
     flex-direction: column;
   }
 
-  .aboutMe{
+  .aboutMe {
     margin: 0p;
     width: 82%;
     display: flex;
@@ -683,7 +683,7 @@ body{
     text-align: justify;
   }
 
-  .educationDiv{
+  .educationDiv {
     width: 146%;
     text-align: justify;
   }
@@ -729,7 +729,7 @@ body{
     position: relative;
     left: 54px;
   }
-  
+
   .boxes h1 {
     display: flex;
     justify-content: center;
@@ -789,11 +789,11 @@ body{
     /* justify-content: space-between; */
     flex-direction: row-reverse;
   }
-  
+
   .content {
     color: white;
     display: flex;
-    gap: 37px; 
+    gap: 37px;
     flex-direction: column;
     width: 120px;
     /* position: fixed; */
@@ -809,7 +809,7 @@ body{
     position: fixed;
   }
 
-  .container img{
+  .container img {
     display: contents;
   }
 
@@ -821,13 +821,13 @@ body{
     position: fixed;
   }
 
-  .close{
+  .close {
     position: relative;
     left: 130px;
     top: 35px;
   }
 
-  .close p{
+  .close p {
     display: block;
     color: white;
     position: fixed;
@@ -836,7 +836,11 @@ body{
   .projects {
     width: 450px;
     height: 200px;
-    background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
+    background: linear-gradient(
+      0deg,
+      rgba(77, 54, 208, 1) 0%,
+      rgba(132, 116, 254, 1) 100%
+    );
     box-shadow: 0 0.7em 1.5em -0.5em #4d36d0be;
     display: flex;
     align-items: center;
@@ -846,7 +850,7 @@ body{
     cursor: pointer;
   }
 
-  .contactHeading{
+  .contactHeading {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -862,10 +866,14 @@ body{
     left: 30px;
   }
 
-  .contentBox{
+  .contentBox {
     width: 527px;
     height: 190px;
-    background: linear-gradient(0deg, rgba(77, 54, 208, 1) 0%, rgba(132, 116, 254, 1) 100%);
+    background: linear-gradient(
+      0deg,
+      rgba(77, 54, 208, 1) 0%,
+      rgba(132, 116, 254, 1) 100%
+    );
     box-shadow: -1 0.7em 1.5em -0.5em #4d36d0be;
     display: flex;
     justify-content: center;
@@ -877,7 +885,6 @@ body{
     position: relative;
     left: 65px;
   }
-
 
   .design h1 {
     display: flex;
@@ -897,14 +904,18 @@ body{
   .right {
     margin: 40px 0px;
     width: 415px;
-    background: linear-gradient(0deg, rgb(255 255 255) 0%, rgba(132, 116, 254, 1) 100%);
+    background: linear-gradient(
+      0deg,
+      rgb(255 255 255) 0%,
+      rgba(132, 116, 254, 1) 100%
+    );
     height: 355px;
     border-radius: 26px;
     position: relative;
     left: 49px;
   }
-  
-  .footer{
+
+  .footer {
     display: flex;
     justify-content: center;
     margin-bottom: 8px;
@@ -912,7 +923,4 @@ body{
     position: relative;
     left: 60px;
   }
-  
 }
-
-  
